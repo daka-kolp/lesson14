@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lesson4</string>
+    <string name="name">Daria Kolpakova</string>
+    <string name="position">Frontend Developer</string>
+    <string name="biography">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="email">Email</string>
+    <string name="email_data">daryakolp@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="phone_data">+38 (063) 063 38 12</string>
+</resources>
